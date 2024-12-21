@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Student-Examination-System-master\\Student-Examination-System-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE97CF41-DBDA-4DC3-B690-E9EF8218B91D}|StudentExaminationSystem.csproj|c:\\users\\aalha\\onedrive\\documents\\uni\\student-examination-system-master\\student-examination-system-master\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE97CF41-DBDA-4DC3-B690-E9EF8218B91D}|StudentExaminationSystem.csproj|solutionrelative:forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE97CF41-DBDA-4DC3-B690-E9EF8218B91D}|StudentExaminationSystem.csproj|c:\\users\\aalha\\onedrive\\documents\\uni\\student-examination-system-master\\student-examination-system-master\\forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE97CF41-DBDA-4DC3-B690-E9EF8218B91D}|StudentExaminationSystem.csproj|solutionrelative:forms\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE97CF41-DBDA-4DC3-B690-E9EF8218B91D}|StudentExaminationSystem.csproj|c:\\users\\aalha\\onedrive\\documents\\uni\\student-examination-system-master\\student-examination-system-master\\forms\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE97CF41-DBDA-4DC3-B690-E9EF8218B91D}|StudentExaminationSystem.csproj|solutionrelative:forms\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE97CF41-DBDA-4DC3-B690-E9EF8218B91D}|StudentExaminationSystem.csproj|c:\\users\\aalha\\onedrive\\documents\\uni\\student-examination-system-master\\student-examination-system-master\\forms\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE97CF41-DBDA-4DC3-B690-E9EF8218B91D}|StudentExaminationSystem.csproj|solutionrelative:forms\\studentdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE97CF41-DBDA-4DC3-B690-E9EF8218B91D}|StudentExaminationSystem.csproj|c:\\users\\aalha\\onedrive\\documents\\uni\\student-examination-system-master\\student-examination-system-master\\models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE97CF41-DBDA-4DC3-B690-E9EF8218B91D}|StudentExaminationSystem.csproj|solutionrelative:models\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE97CF41-DBDA-4DC3-B690-E9EF8218B91D}|StudentExaminationSystem.csproj|c:\\users\\aalha\\onedrive\\documents\\uni\\student-examination-system-master\\student-examination-system-master\\forms\\studentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE97CF41-DBDA-4DC3-B690-E9EF8218B91D}|StudentExaminationSystem.csproj|solutionrelative:forms\\studentdashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE97CF41-DBDA-4DC3-B690-E9EF8218B91D}|StudentExaminationSystem.csproj|c:\\users\\aalha\\onedrive\\documents\\uni\\student-examination-system-master\\student-examination-system-master\\forms\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE97CF41-DBDA-4DC3-B690-E9EF8218B91D}|StudentExaminationSystem.csproj|solutionrelative:forms\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Student-Examination-System-master\\Student-Examination-System-master\\Forms\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Student-Examination-System-master\\Student-Examination-System-master\\Forms\\AdminDashboard.cs*",
+              "RelativeToolTip": "Forms\\AdminDashboard.cs*",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAYwL0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T22:00:54.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Student-Examination-System-master\\Student-Examination-System-master\\Forms\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Student-Examination-System-master\\Student-Examination-System-master\\Forms\\AdminDashboard.cs [Design]*",
+              "RelativeToolTip": "Forms\\AdminDashboard.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T22:00:49.048Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentDashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Student-Examination-System-master\\Student-Examination-System-master\\Forms\\StudentDashboard.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\StudentDashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Student-Examination-System-master\\Student-Examination-System-master\\Forms\\StudentDashboard.Designer.cs",
+              "RelativeToolTip": "Forms\\StudentDashboard.Designer.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAYwKQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:35:00.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Student-Examination-System-master\\Student-Examination-System-master\\Forms\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\StudentDashboard.cs",
+              "ToolTip": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Student-Examination-System-master\\Student-Examination-System-master\\Forms\\StudentDashboard.cs",
+              "RelativeToolTip": "Forms\\StudentDashboard.cs",
+              "ViewState": "AgIAAN8AAAAAAAAAAAAgwPMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:17:22.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Student-Examination-System-master\\Student-Examination-System-master\\Forms\\StudentDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\StudentDashboard.cs",
+              "ToolTip": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Student-Examination-System-master\\Student-Examination-System-master\\Forms\\StudentDashboard.cs [Design]",
+              "RelativeToolTip": "Forms\\StudentDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:17:17.457Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TeacherDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Student-Examination-System-master\\Student-Examination-System-master\\Forms\\TeacherDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\TeacherDashboard.cs",
+              "ToolTip": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Student-Examination-System-master\\Student-Examination-System-master\\Forms\\TeacherDashboard.cs [Design]",
+              "RelativeToolTip": "Forms\\TeacherDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:17:16.361Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Student-Examination-System-master\\Student-Examination-System-master\\Models\\Exam.cs",
+              "RelativeDocumentMoniker": "Models\\Exam.cs",
+              "ToolTip": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Student-Examination-System-master\\Student-Examination-System-master\\Models\\Exam.cs",
+              "RelativeToolTip": "Models\\Exam.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAiwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T21:09:53.128Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

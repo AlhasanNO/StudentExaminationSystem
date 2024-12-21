@@ -1,0 +1,733 @@
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.exe
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.deps.json
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.runtimeconfig.json
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.pdb
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.csproj.AssemblyReference.cache
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.csproj.GenerateResource.cache
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.AssemblyInfo.cs
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentE.AA6B9E0E.Up2Date
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\refint\StudentExaminationSystem.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.pdb
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.genruntimeconfig.cache
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\ref\StudentExaminationSystem.dll
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.Login.resources
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.Resgister.resources
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.AddCourse.resources
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.DashStudent.resources
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.DashTeacher.resources
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.AddStudent.resources
+C:\Users\bjaba\Downloads\Compressed\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.addTeacher.resources
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.exe
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.deps.json
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.runtimeconfig.json
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.pdb
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.csproj.AssemblyReference.cache
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.Login.resources
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.csproj.GenerateResource.cache
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.AssemblyInfo.cs
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentE.AA6B9E0E.Up2Date
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\refint\StudentExaminationSystem.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.pdb
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.genruntimeconfig.cache
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\ref\StudentExaminationSystem.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.exe
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.deps.json
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.runtimeconfig.json
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.pdb
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.csproj.AssemblyReference.cache
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.DashStudent.resources
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.DashTeacher.resources
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.Login.resources
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.Resgister.resources
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.csproj.GenerateResource.cache
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.AssemblyInfo.cs
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentE.AA6B9E0E.Up2Date
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\refint\StudentExaminationSystem.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.pdb
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.genruntimeconfig.cache
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\ref\StudentExaminationSystem.dll
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.Forms.AdminForms.AdminDathboard.resources
+C:\Users\bjaba\Downloads\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.StartExam.resources
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.Forms.AdminForms.AdminDashboard.resources
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.StudentDashboard.resources
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.TeacherDashboard.resources
+C:\Users\aalha\OneDrive\Documents\UNI\Visiual Programming\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.Forms.Examination.resources
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.exe
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.deps.json
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.runtimeconfig.json
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.pdb
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.csproj.AssemblyReference.cache
+D:\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.Forms.AdminForms.AdminDashboard.resources
+D:\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.Forms.Examination.resources
+D:\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.Login.resources
+D:\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.StudentDashboard.resources
+D:\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.TeacherDashboard.resources
+D:\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.csproj.GenerateResource.cache
+D:\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.AssemblyInfoInputs.cache
+D:\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.AssemblyInfo.cs
+D:\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.csproj.CoreCompileInputs.cache
+D:\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentE.AA6B9E0E.Up2Date
+D:\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\refint\StudentExaminationSystem.dll
+D:\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.pdb
+D:\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.genruntimeconfig.cache
+D:\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\ref\StudentExaminationSystem.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.exe
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.deps.json
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.runtimeconfig.json
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\StudentExaminationSystem.pdb
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Build.Locator.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Formats.Asn1.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Text.Encodings.Web.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\System.Text.Json.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\bin\Debug\net8.0-windows\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.csproj.AssemblyReference.cache
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.Forms.AdminForms.AdminDashboard.resources
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.Forms.Examination.resources
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.Login.resources
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.StudentDashboard.resources
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.TeacherDashboard.resources
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.csproj.GenerateResource.cache
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.AssemblyInfo.cs
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentE.AA6B9E0E.Up2Date
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\refint\StudentExaminationSystem.dll
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.pdb
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\StudentExaminationSystem.genruntimeconfig.cache
+C:\Users\aalha\OneDrive\Documents\UNI\Student-Examination-System-master\Student-Examination-System-master\obj\Debug\net8.0-windows\ref\StudentExaminationSystem.dll
