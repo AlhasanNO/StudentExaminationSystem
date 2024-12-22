@@ -52,12 +52,8 @@
             textBox1 = new TextBox();
             dataGridView2 = new DataGridView();
             tabPage3 = new TabPage();
-            dataGridView5 = new DataGridView();
             label9 = new Label();
             dataGridView4 = new DataGridView();
-            textBox7 = new TextBox();
-            label10 = new Label();
-            button2 = new Button();
             tabControl1.SuspendLayout();
             tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
@@ -65,7 +61,6 @@
             ((System.ComponentModel.ISupportInitialize)dataGridView3).BeginInit();
             ((System.ComponentModel.ISupportInitialize)dataGridView2).BeginInit();
             tabPage3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)dataGridView5).BeginInit();
             ((System.ComponentModel.ISupportInitialize)dataGridView4).BeginInit();
             SuspendLayout();
             // 
@@ -78,7 +73,7 @@
             tabControl1.Location = new Point(0, 0);
             tabControl1.Name = "tabControl1";
             tabControl1.SelectedIndex = 0;
-            tabControl1.Size = new Size(931, 588);
+            tabControl1.Size = new Size(931, 470);
             tabControl1.TabIndex = 0;
             // 
             // tabPage1
@@ -89,7 +84,7 @@
             tabPage1.Location = new Point(4, 29);
             tabPage1.Name = "tabPage1";
             tabPage1.Padding = new Padding(3);
-            tabPage1.Size = new Size(923, 555);
+            tabPage1.Size = new Size(923, 437);
             tabPage1.TabIndex = 0;
             tabPage1.Text = "courses";
             tabPage1.UseVisualStyleBackColor = true;
@@ -114,10 +109,10 @@
             // dataGridView1
             // 
             dataGridView1.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView1.Location = new Point(27, 72);
+            dataGridView1.Location = new Point(0, 72);
             dataGridView1.Name = "dataGridView1";
             dataGridView1.RowHeadersWidth = 51;
-            dataGridView1.Size = new Size(841, 396);
+            dataGridView1.Size = new Size(923, 365);
             dataGridView1.TabIndex = 0;
             dataGridView1.CellContentClick += dataGridView1_CellContentClick;
             // 
@@ -143,7 +138,7 @@
             tabPage2.Location = new Point(4, 29);
             tabPage2.Name = "tabPage2";
             tabPage2.Padding = new Padding(3);
-            tabPage2.Size = new Size(923, 555);
+            tabPage2.Size = new Size(923, 437);
             tabPage2.TabIndex = 1;
             tabPage2.Text = "Exams";
             tabPage2.UseVisualStyleBackColor = true;
@@ -294,27 +289,14 @@
             // 
             // tabPage3
             // 
-            tabPage3.Controls.Add(button2);
-            tabPage3.Controls.Add(label10);
-            tabPage3.Controls.Add(textBox7);
-            tabPage3.Controls.Add(dataGridView5);
             tabPage3.Controls.Add(label9);
             tabPage3.Controls.Add(dataGridView4);
             tabPage3.Location = new Point(4, 29);
             tabPage3.Name = "tabPage3";
-            tabPage3.Size = new Size(923, 555);
+            tabPage3.Size = new Size(923, 437);
             tabPage3.TabIndex = 2;
             tabPage3.Text = "Resultes";
             tabPage3.UseVisualStyleBackColor = true;
-            // 
-            // dataGridView5
-            // 
-            dataGridView5.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView5.Location = new Point(482, 0);
-            dataGridView5.Name = "dataGridView5";
-            dataGridView5.RowHeadersWidth = 51;
-            dataGridView5.Size = new Size(445, 334);
-            dataGridView5.TabIndex = 24;
             // 
             // label9
             // 
@@ -328,43 +310,17 @@
             // dataGridView4
             // 
             dataGridView4.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridView4.Location = new Point(8, 47);
+            dataGridView4.Location = new Point(0, 47);
             dataGridView4.Name = "dataGridView4";
             dataGridView4.RowHeadersWidth = 51;
-            dataGridView4.Size = new Size(468, 334);
+            dataGridView4.Size = new Size(923, 508);
             dataGridView4.TabIndex = 21;
-            // 
-            // textBox7
-            // 
-            textBox7.Location = new Point(643, 365);
-            textBox7.Name = "textBox7";
-            textBox7.Size = new Size(125, 27);
-            textBox7.TabIndex = 25;
-            // 
-            // label10
-            // 
-            label10.AutoSize = true;
-            label10.Location = new Point(568, 368);
-            label10.Name = "label10";
-            label10.Size = new Size(58, 20);
-            label10.TabIndex = 26;
-            label10.Text = "label10";
-            // 
-            // button2
-            // 
-            button2.Location = new Point(661, 443);
-            button2.Name = "button2";
-            button2.Size = new Size(94, 29);
-            button2.TabIndex = 27;
-            button2.Text = "button2";
-            button2.UseVisualStyleBackColor = true;
-            button2.Click += button2_Click;
             // 
             // TeacherDashboard
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(931, 588);
+            ClientSize = new Size(931, 470);
             Controls.Add(tabControl1);
             Name = "TeacherDashboard";
             Text = "Teacher Dashboard";
@@ -378,7 +334,6 @@
             ((System.ComponentModel.ISupportInitialize)dataGridView2).EndInit();
             tabPage3.ResumeLayout(false);
             tabPage3.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)dataGridView5).EndInit();
             ((System.ComponentModel.ISupportInitialize)dataGridView4).EndInit();
             ResumeLayout(false);
         }
@@ -411,9 +366,5 @@
         private DataGridView dataGridView4;
         private Label label12;
         private Label label11;
-        private DataGridView dataGridView5;
-        private Button button2;
-        private Label label10;
-        private TextBox textBox7;
     }
 }

@@ -4739,11 +4739,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Student-Examination-System-master\\Student-Examination-System-master\\StudentExaminationSystem.csproj",
+      "projectUniqueName": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Visiual Programming\\Project\\Student-Examination-System\\StudentExaminationSystem.csproj",
       "projectName": "StudentExaminationSystem",
-      "projectPath": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Student-Examination-System-master\\Student-Examination-System-master\\StudentExaminationSystem.csproj",
+      "projectPath": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Visiual Programming\\Project\\Student-Examination-System\\StudentExaminationSystem.csproj",
       "packagesPath": "C:\\Users\\aalha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Student-Examination-System-master\\Student-Examination-System-master\\obj\\",
+      "outputPath": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Visiual Programming\\Project\\Student-Examination-System\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
