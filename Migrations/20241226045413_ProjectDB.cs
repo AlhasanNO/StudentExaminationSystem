@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace StudentExaminationSystem.Migrations
 {
     /// <inheritdoc />
-    public partial class aa : Migration
+    public partial class ProjectDB : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)

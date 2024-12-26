@@ -1,12 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Visiual Programming\\Project\\Student-Examination-System\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Visiual Programming\\Project\\StudentExaminationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE97CF41-DBDA-4DC3-B690-E9EF8218B91D}|StudentExaminationSystem.csproj|c:\\users\\aalha\\onedrive\\documents\\uni\\visiual programming\\project\\studentexaminationsystem\\forms\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE97CF41-DBDA-4DC3-B690-E9EF8218B91D}|StudentExaminationSystem.csproj|solutionrelative:forms\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE97CF41-DBDA-4DC3-B690-E9EF8218B91D}|StudentExaminationSystem.csproj|c:\\users\\aalha\\onedrive\\documents\\uni\\visiual programming\\project\\studentexaminationsystem\\forms\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AE97CF41-DBDA-4DC3-B690-E9EF8218B91D}|StudentExaminationSystem.csproj|solutionrelative:forms\\teacherdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TeacherDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Visiual Programming\\Project\\StudentExaminationSystem\\Forms\\TeacherDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\TeacherDashboard.cs",
+              "ToolTip": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Visiual Programming\\Project\\StudentExaminationSystem\\Forms\\TeacherDashboard.cs",
+              "RelativeToolTip": "Forms\\TeacherDashboard.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAgwE0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:48:16.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TeacherDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Visiual Programming\\Project\\StudentExaminationSystem\\Forms\\TeacherDashboard.cs",
+              "RelativeDocumentMoniker": "Forms\\TeacherDashboard.cs",
+              "ToolTip": "C:\\Users\\aalha\\OneDrive\\Documents\\UNI\\Visiual Programming\\Project\\StudentExaminationSystem\\Forms\\TeacherDashboard.cs [Design]",
+              "RelativeToolTip": "Forms\\TeacherDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T05:48:08.361Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }

@@ -12,8 +12,8 @@ using StudentExaminationSystem;
 namespace StudentExaminationSystem.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20241221205700_aa")]
-    partial class aa
+    [Migration("20241226045413_ProjectDB")]
+    partial class ProjectDB
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

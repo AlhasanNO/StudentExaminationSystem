@@ -37,10 +37,10 @@
             label1 = new Label();
             dataGridView2 = new DataGridView();
             tabPage2 = new TabPage();
+            StartExambtn = new Button();
             dataGridView3 = new DataGridView();
             button3 = new Button();
             dataGridView6 = new DataGridView();
-            StartExambtn = new Button();
             tabControl1.SuspendLayout();
             tabPage1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridView1).BeginInit();
@@ -83,6 +83,7 @@
             button1.TabIndex = 1;
             button1.Text = "Register course";
             button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // dataGridView1
             // 
@@ -145,6 +146,16 @@
             tabPage2.Text = "Exam";
             tabPage2.UseVisualStyleBackColor = true;
             // 
+            // StartExambtn
+            // 
+            StartExambtn.Location = new Point(72, 332);
+            StartExambtn.Name = "StartExambtn";
+            StartExambtn.Size = new Size(110, 39);
+            StartExambtn.TabIndex = 4;
+            StartExambtn.Text = "Start Exam";
+            StartExambtn.UseVisualStyleBackColor = true;
+            StartExambtn.Click += StartExambtn_Click;
+            // 
             // dataGridView3
             // 
             dataGridView3.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
@@ -163,7 +174,6 @@
             button3.Text = "Show Result";
             button3.UseVisualStyleBackColor = true;
             button3.Click += button3_Click;
-
             // 
             // dataGridView6
             // 
@@ -173,16 +183,6 @@
             dataGridView6.RowHeadersWidth = 51;
             dataGridView6.Size = new Size(575, 283);
             dataGridView6.TabIndex = 0;
-            // 
-            // StartExambtn
-            // 
-            StartExambtn.Location = new Point(72, 332);
-            StartExambtn.Name = "StartExambtn";
-            StartExambtn.Size = new Size(110, 39);
-            StartExambtn.TabIndex = 4;
-            StartExambtn.Text = "Start Exam";
-            StartExambtn.UseVisualStyleBackColor = true;
-            StartExambtn.Click += StartExambtn_Click;
             // 
             // StudentDashboard
             // 

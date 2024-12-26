@@ -579,7 +579,7 @@ namespace StudentExaminationSystem.Forms.AdminForms
             if (string.IsNullOrWhiteSpace(name) || string.IsNullOrWhiteSpace(email) ||
                 string.IsNullOrWhiteSpace(password) || string.IsNullOrWhiteSpace(college))
             {
-                MessageBox.Show("Please fill in all fields.", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                MessageBox.Show("Please fill in all fields.", "Validation Error");
                 return;
             }
 

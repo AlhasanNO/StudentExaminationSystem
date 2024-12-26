@@ -69,7 +69,6 @@ namespace StudentExaminationSystem.Forms
             radioButton3.Text = question.Choice3;
             radioButton4.Text = question.Choice4;
 
-            // Clear previous selection
             radioButton1.Checked = false;
             radioButton2.Checked = false;
             radioButton3.Checked = false;
@@ -82,7 +81,6 @@ namespace StudentExaminationSystem.Forms
 
         private void button1_Click(object sender, EventArgs e)
         {
-            // Check if any option is selected
             if (!radioButton1.Checked && !radioButton2.Checked &&
                 !radioButton3.Checked && !radioButton4.Checked)
             {
@@ -90,7 +88,6 @@ namespace StudentExaminationSystem.Forms
                 return;
             }
 
-            // Check answer
             var currentQuestion = _questions[_currentQuestionIndex];
             string selectedAnswer = "";
 
@@ -120,24 +117,20 @@ namespace StudentExaminationSystem.Forms
         {
             timer1.Stop();
 
-            // Calculate percentage
             double percentage = (_correctAnswers * 100.0) / _questions.Count;
 
             try
             {
-                // Check if student already has a result for this exam
                 var existingResult = _context.StudentExams
                     .FirstOrDefault(se => se.StudentID == _studentId && se.ExamID == _exam.Id);
 
                 if (existingResult != null)
                 {
-                    // Update existing result
                     existingResult.Result = percentage;
                     _context.StudentExams.Update(existingResult);
                 }
                 else
                 {
-                    // Create new result
                     var studentExam = new StudentExam
                     {
                         StudentID = _studentId,
